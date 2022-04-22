@@ -1,0 +1,14 @@
+{
+  "name": "test-graphql-lint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@graphql-eslint/eslint-plugin": "^3.10.2",
+    "eslint": "^8.14.0"
+  },
+  "dependencies": {
+    "graphql": "^16.3.0",
+    "graphql-tag": "^2.12.6"
+  }
+}
